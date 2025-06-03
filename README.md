@@ -170,3 +170,7 @@ Bạn có thể:
     ```
     .\main.exe
     ```
+
+## Kết luận
+- Đã thực hiện được các chức năng cơ bản: thêm, xóa, truy vết
+- Tuy nhiên vẫn còn hạn chế: Chưa phân biệt rõ ràng file và folder.
