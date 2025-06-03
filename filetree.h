@@ -11,7 +11,7 @@ typedef struct File { // tạo một kiểu dữ liệu là kiểu File
 } File;
 
 typedef File* PFile; // con trỏ trỏ tới một file 
-typedef File* FileTree; //con trỏ trỏ tới cả cái cây ( ở đây là cái app File Explorer luôn)
+typedef File* FileTree; //con trỏ trỏ tới cả cái cây ( ở đây là cái File Explorer luôn)
 
 // Các hàm tạo, thêm, xóa, in cây
 PFile createFile(const char* filename);
