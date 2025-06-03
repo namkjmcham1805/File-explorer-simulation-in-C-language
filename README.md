@@ -172,5 +172,5 @@ Bạn có thể:
     ```
 
 ## Kết luận
-- Đã thực hiện được các chức năng cơ bản: thêm, xóa, truy vết
+- Đã thực hiện được các chức năng cơ bản: thêm, xóa, truy vết, in ra cấu trúc cây.
 - Tuy nhiên vẫn còn hạn chế: Chưa phân biệt rõ ràng file và folder.
